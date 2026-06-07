@@ -1,0 +1,4 @@
+,Accuracy,Precision,Recall,F1 Score,High Risk Recall
+Random Forest,100.0,100.0,100.0,100.0,100.0
+XGBoost,100.0,100.0,100.0,100.0,100.0
+Logistic Regression,99.58,99.59,99.58,99.58,98.33
